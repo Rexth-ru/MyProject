@@ -1,4 +1,4 @@
 @echo off
-cd C:\Users\User\MyProject
+start "" "http://localhost:3000"
 node server.js
 pause
